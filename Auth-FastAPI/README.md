@@ -24,7 +24,8 @@ Ensure you have Python 3.8+ installed on your machine.
 Clone the repository and navigate to the project directory:
 
 ```bash
-cd Auth-FastAPI
+cd Auth-FastAPI 
+```
 
 ### Some Screenshots :
 <img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/54c3e9ee-a46b-41f2-86f3-32933b6ead4c" />
