@@ -25,3 +25,18 @@ Clone the repository and navigate to the project directory:
 
 ```bash
 cd Auth-FastAPI
+
+### Some Screenshots :
+<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/54c3e9ee-a46b-41f2-86f3-32933b6ead4c" />
+
+## Sign up:
+<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/6b3a420b-c4d4-44a2-afcb-50890f2f85c9" />
+
+## Authorize:
+<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/ace2b552-9619-415d-ab07-e236859cce1f" />
+
+## Get Method with JWT visible :
+<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/aeb131da-9108-4ebc-b92b-89e5fb90c34a" />
+
+
+
