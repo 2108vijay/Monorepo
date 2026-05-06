@@ -6,7 +6,15 @@ from security import verify_password, get_password_hash, create_access_token, SE
 from datetime import timedelta
 
 app = FastAPI()
-
+@app.get("/")
+async def root():
+    """
+    Root endpoint to verify the API is running.
+    """
+    return {
+        "status": "online",
+        "message": "Welcome to the FastAPI Authentication Module! Navigate to /docs to explore the API."
+    }
 oauth2_scheme = OAuth2PasswordBearer(tokenUrl="token")
 
 fake_users_db = {
